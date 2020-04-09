@@ -33,6 +33,7 @@ body{
 }
 h3{
     font-family: "connection";
+    font-size: 2em;
 }
 
 
@@ -66,4 +67,7 @@ svg{
 	.parent{
         width: 100%;
     }
+h3{
+    font-size: 2em;
+}
 }
