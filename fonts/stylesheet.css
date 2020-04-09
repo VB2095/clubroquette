@@ -3,21 +3,9 @@
 
 
 @font-face {
-    font-family: 'connection_iiregular';
-    src: url('connectionii-webfont.woff2') format('woff2'),
-         url('connectionii-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'kg_summer_sunshine_shadowRg';
-    src: url('kgsummersunshineshadow-webfont.woff2') format('woff2'),
-         url('kgsummersunshineshadow-webfont.woff') format('woff');
+    font-family: 'robotoregular';
+    src: url('roboto-regular-webfont.woff2') format('woff2'),
+         url('roboto-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 

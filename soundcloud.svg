@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="95" height="95" viewBox="0 0 95 95">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.728" y1="0.592" x2="1.064" y2="-0.047" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6fb094"/>
+      <stop offset="1" stop-color="#91b3df"/>
+    </linearGradient>
+  </defs>
+  <g id="soundcloud" transform="translate(0.289 0.289)">
+    <circle id="Ellipse_18" data-name="Ellipse 18" cx="47.5" cy="47.5" r="47.5" transform="translate(-0.289 -0.289)" fill="url(#linear-gradient)"/>
+    <path id="Tracé_70" data-name="Tracé 70" d="M163.671,259.35l-51.714,7.885,37.321,37.321a47.17,47.17,0,0,0,32.412-27.2Z" transform="translate(-91.526 -211.815)" fill="#6fb094"/>
+    <g id="Groupe_42" data-name="Groupe 42" transform="translate(19.974 36.773)">
+      <path id="Tracé_71" data-name="Tracé 71" d="M110.293,274.637a.216.216,0,0,1-.432,0l-.393-2.943.393-2.992a.223.223,0,0,1,.216-.211.226.226,0,0,1,.216.211l.468,3Z" transform="translate(-109.468 -256.046)" fill="#f0f1f1"/>
+      <path id="Tracé_72" data-name="Tracé 72" d="M120.5,268.189a.225.225,0,0,1-.45,0l-.529-4.734.529-4.84a.225.225,0,0,1,.45,0l.6,4.84Z" transform="translate(-117.675 -247.81)" fill="#f0f1f1"/>
+      <path id="Tracé_73" data-name="Tracé 73" d="M131.981,264.785a.277.277,0,0,1-.269.263.274.274,0,0,1-.27-.263l-.5-5.532.5-5.742a.276.276,0,0,1,.27-.267.28.28,0,0,1,.269.267l.57,5.742Z" transform="translate(-126.991 -243.604)" fill="#f0f1f1"/>
+      <path id="Tracé_74" data-name="Tracé 74" d="M143.546,264.065a.318.318,0,0,1-.636,0l-.474-5.707.474-5.9a.318.318,0,0,1,.636,0l.538,5.9Z" transform="translate(-136.373 -242.709)" fill="#f0f1f1"/>
+      <path id="Tracé_75" data-name="Tracé 75" d="M155.214,265.8a.361.361,0,0,1-.723,0l-.448-5.754.448-5.473a.361.361,0,0,1,.723,0l.508,5.476Z" transform="translate(-145.846 -244.399)" fill="#f0f1f1"/>
+      <path id="Tracé_76" data-name="Tracé 76" d="M166.972,250.368v0a.409.409,0,0,1-.819,0l-.419-5.754.419-8.9a.409.409,0,0,1,.819,0l.474,8.909Z" transform="translate(-155.388 -228.962)" fill="#f0f1f1"/>
+      <path id="Tracé_77" data-name="Tracé 77" d="M178.638,241.267v0a.454.454,0,0,1-.909,0l-.4-5.717.4-10.942a.454.454,0,0,1,.909,0l.445,10.942Z" transform="translate(-164.854 -219.865)" fill="#f0f1f1"/>
+      <path id="Tracé_78" data-name="Tracé 78" d="M190.772,236.79v0a.5.5,0,0,1-1,0l-.367-5.658s.367-11.854.367-11.857a.5.5,0,0,1,1,0l.414,11.857Z" transform="translate(-174.707 -215.476)" fill="#f0f1f1"/>
+      <path id="Tracé_79" data-name="Tracé 79" d="M202.811,234.784a.545.545,0,0,1-1.091,0l-.342-5.625.342-12.253a.545.545,0,0,1,1.091,0l.38,12.253Z" transform="translate(-184.477 -213.508)" fill="#f0f1f1"/>
+      <path id="Tracé_80" data-name="Tracé 80" d="M214.945,235.92v0a.591.591,0,0,1-1.182,0l-.314-5.571.311-11.94a.592.592,0,0,1,1.185,0l.353,11.94Z" transform="translate(-194.328 -214.693)" fill="#f0f1f1"/>
+      <path id="Tracé_81" data-name="Tracé 81" d="M227.173,237.619v0a.639.639,0,0,1-1.277,0l-.284-5.538.284-11.5a.639.639,0,0,1,1.277,0l.322,11.507Z" transform="translate(-204.254 -216.426)" fill="#f0f1f1"/>
+      <path id="Tracé_82" data-name="Tracé 82" d="M239.521,227.131l-.029.542a.708.708,0,0,1-.2.483.691.691,0,0,1-.477.2.692.692,0,0,1-.683-.654.1.1,0,0,1,0-.024s-.262-5.495-.262-5.5l.259-13.556,0-.13a.687.687,0,0,1,.316-.57.661.661,0,0,1,.743.006.689.689,0,0,1,.307.565l.288,13.692Z" transform="translate(-214.254 -206.522)" fill="#f0f1f1"/>
+      <path id="Tracé_83" data-name="Tracé 83" d="M251.482,221.9V221.9a.73.73,0,0,1-1.459,0l-.151-2.672-.148-2.744.3-14.858v-.075a.736.736,0,0,1,.27-.563.725.725,0,0,1,.459-.165.736.736,0,0,1,.373.1.762.762,0,0,1,.36.623l.323,14.935Z" transform="translate(-223.933 -200.822)" fill="#f0f1f1"/>
+    </g>
+    <path id="Tracé_84" data-name="Tracé 84" d="M281.765,215.731H263.389a.783.783,0,0,1-.717-.763V193.932c.007-.387.14-.587.638-.779a11.834,11.834,0,0,1,4.242-.793A11.7,11.7,0,0,1,279.2,203.019a6.616,6.616,0,1,1,2.563,12.712Z" transform="translate(-214.526 -157.143)" fill="#fff"/>
+  </g>
+</svg>
