@@ -9,6 +9,13 @@ body{
 a{
     cursor: url('hand.cur'),auto;)
 }
+
+.radio-control-play-button {
+
+
+}
+
+
 @font-face {
     font-family: 'connection';
     src: url('fonts/connectionii-webfont.woff2') format('woff2'),
@@ -88,7 +95,14 @@ svg{
     width: 100%;
     height: auto;
 }
-
+.socials{
+    display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-between;
+	align-items: baseline;
+	align-content: stretch;
+}
 .socials a{
     text-decoration: none;
 }
