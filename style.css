@@ -102,6 +102,7 @@ svg{
 	justify-content: space-between;
 	align-items: baseline;
 	align-content: stretch;
+    margin-bottom: 15px;
 }
 .socials a{
     text-decoration: none;
