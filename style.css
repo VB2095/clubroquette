@@ -1,7 +1,7 @@
 body{
     display: flex;
     justify-content: center;
-    font-family: url('fonts/KGSummerSunshineShadow.ttf')
+
 }
 
 @font-face {
@@ -23,7 +23,14 @@ body{
 
 }
 
+@font-face {
+    font-family: 'kgsummer';
+    src: url('fonts/kgsummersunshineshadow-webfont.woff2') format('woff2'),
+         url('fonts/kgsummersunshineshadow-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 
+}
 h3{
     font-family: "connection";
 }
@@ -51,4 +58,12 @@ grid-row-gap: 0px;
 svg{
     width: 100%;
     height: auto;
+}
+
+
+
+@media (max-width: 900px) {
+	.parent{
+        width: 100%;
+    }
 }
