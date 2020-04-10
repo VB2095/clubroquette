@@ -2,15 +2,42 @@
 
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-    <head>
-        <meta charset="utf-8">
-        <title>radiotesting</title>
-    </head>
-    <body>
-        <iframe class="pointer" src="http://192.168.123.170:3032/public/clubroquette/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
-        <audio controls>
-            <source src="http://78.192.204.177:8499/radio.mp3?15864540903">
-            </audio>
+<head>
+    <meta charset="utf-8">
+    <title>radiotesting</title>
+    <link rel="stylesheet" href="player.css">
+    <link rel="script" href="jquery.js">
+</head>
+<body>
 
-    </body>
+<iframe src="https://radio.ducdigital.com/public/clubroquette/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
+
+
+
+
+
+
+<div class="audioplayer audioplayer-mini">
+	<embed src="https://radio.ducdigital.com/public/clubroquette/embed" width="0" height="0" volume="100" autostart="false" loop="false" />
+	<div class="audioplayer-playpause" title="Play"><a href="#">Play</a></div>
+</div>
+
+
+
+
+
+
+<iframe src="https://radio.ducdigital.com/public/clubroquette/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
+
+
+
+    <!--    <iframe class="pointer" src="http://192.168.123.170:3032/public/clubroquette/embed" frameborder="0" allowtransparency="true" style="width: 100%; min-height: 150px; border: 0;"></iframe>
+    <audio controls>
+    <source src="http://78.192.204.177:8499/radio.mp3?15864540903">
+</audio>
+-->
+
+<script src="audioplayer.js"></script>
+<script>$( function() { $( 'audio' ).audioPlayer(); } );</script>
+</body>
 </html>
