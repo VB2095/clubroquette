@@ -146,3 +146,38 @@ h3{
     display: flex;
     justify-content: flex-start !important;
 }
+
+.livenow{
+    margin-bottom: 2px;
+}
+
+.live-now-circle {
+    display: inline-block;
+    position: relative;
+    top: 1px;
+    width: 8px;
+    height: 8px;
+    margin-left: 2px;
+    background-color: #e81717;
+    opacity: 0;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-animation: flickerAnimation 2s infinite;
+    -moz-animation: flickerAnimation 2s infinite;
+    -o-animation: flickerAnimation 2s infinite;
+    animation: flickerAnimation 2s infinite;
+}
+
+@keyframes flickerAnimation {
+    0% {
+    opacity: 1;
+}
+50% {
+    opacity: 0;
+}
+100% {
+    opacity: 1;
+}
+
+}
