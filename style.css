@@ -69,9 +69,9 @@ p a:hover{
 .parent {
     display: grid;
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr -0.5fr 0.5fr 0.5fr;
+    grid-template-rows: 0fr -0.5fr 0.5fr 0.5fr;
     grid-column-gap: 0px;
-    grid-row-gap: 0px;
+    grid-row-gap: 10vh;
 }
 
 .div1 { grid-area: 1 / 1 / 2 / 2; }
@@ -132,7 +132,11 @@ svg{
     }
 }
 
+/* TV */
 
+.tv{
+    height: 70vh;
+}
 
 /* radio */
 .radio-player-widget .now-playing-details{
