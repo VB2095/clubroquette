@@ -94,6 +94,7 @@ svg{
 .socials{
     display: flex;
     justify-content: space-around;
+    align-items: center;
     margin-bottom: 15px;
 }
 .socials a{
@@ -122,15 +123,7 @@ svg{
 }
 
 
-@media (max-width: 900px) {
-    .parent{
-        width: 100%;
-    }
 
-    h3{
-        font-size: 2em;
-    }
-}
 
 /* TV */
 
