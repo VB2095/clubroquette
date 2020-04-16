@@ -126,12 +126,12 @@ svg{
 
 
 /* TV */
-.embed-container { 
-    position: relative; 
-    padding-bottom: 56.25%; 
-    height: 0; overflow: hidden; 
-    max-width: 100%; } 
-.embed-container iframe, .embed-container object, .embed-container embed { 
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0; overflow: hidden;
+    max-width: 100%; }
+.embed-container iframe, .embed-container object, .embed-container embed {
         position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 
@@ -164,6 +164,16 @@ svg{
     -moz-animation: flickerAnimation 2s infinite;
     -o-animation: flickerAnimation 2s infinite;
     animation: flickerAnimation 2s infinite;
+}
+
+/* Internet Radio Backlink */
+.footer {
+    text-align: center;
+    margin-top: 100px;
+    opacity: 0.1;
+}
+.footer:hover {
+    opacity: 1;
 }
 
 @keyframes flickerAnimation {
