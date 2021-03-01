@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="2157" viewBox="0 0 1800 2157">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d2d2d;
+        font-size: 1000px;
+        font-family: AbsoluteNeonScriptRegular, Absolute Neon Script;
+      }
+
+      .cls-2 {
+        filter: url(#Club_Roquette);
+      }
+    </style>
+    <filter id="Club_Roquette" x="0" y="0" width="1800" height="2157" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-color="#428e8e" flood-opacity="0.569"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <text id="Club_Roquette-2" data-name="Club
+Roquette" class="cls-1" transform="translate(878.5 853.5)"><tspan x="-417" y="0">Club</tspan><tspan x="-841" y="840">Roquette</tspan></text>
+  </g>
+</svg>

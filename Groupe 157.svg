@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="2157" viewBox="0 0 1800 2157">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2d2d2d;
+        font-size: 1000px;
+        font-family: AbsoluteNeonScriptRegular, Absolute Neon Script;
+      }
+
+      .cls-2, .cls-5 {
+        fill: #e40078;
+      }
+
+      .cls-3 {
+        fill: #26b0e3;
+      }
+
+      .cls-4 {
+        fill: #2fd6c8;
+      }
+
+      .cls-5 {
+        opacity: 0.84;
+      }
+
+      .cls-6 {
+        filter: url(#Club_Roquette);
+      }
+    </style>
+    <filter id="Club_Roquette" x="0" y="0" width="1800" height="2157" filterUnits="userSpaceOnUse">
+      <feOffset dx="8" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-color="#428e8e" flood-opacity="0.569"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Groupe_157" data-name="Groupe 157" transform="translate(-336.5 -173.5)">
+    <g id="Groupe_162" data-name="Groupe 162">
+      <g id="Groupe_155" data-name="Groupe 155">
+        <g class="cls-6" transform="matrix(1, 0, 0, 1, 336.5, 173.5)">
+          <text id="Club_Roquette-2" data-name="Club
+Roquette" class="cls-1" transform="translate(878.5 853.5)"><tspan x="-417" y="0">Club</tspan><tspan x="-841" y="840">Roquette</tspan></text>
+        </g>
+        <g id="Groupe_50" data-name="Groupe 50" transform="translate(673 2089.677)">
+          <g id="Groupe_46" data-name="Groupe 46" transform="matrix(1, 0.017, -0.017, 1, 2.763, 0)">
+            <path id="Tracé_87" data-name="Tracé 87" class="cls-2" d="M0,0,1064.951,2.426l50.407,66.247L1.165,54.649,0,0" transform="matrix(0.998, -0.07, 0.07, 0.998, 34.958, 89.789)"/>
+            <path id="Tracé_86" data-name="Tracé 86" class="cls-3" d="M0,0,1064.951,2.426l50.407,66.247L1.165,54.649,0,0" transform="matrix(0.998, -0.07, 0.07, 0.998, 0, 77.803)"/>
+          </g>
+        </g>
+      </g>
+      <path id="Tracé_88" data-name="Tracé 88" class="cls-4" d="M117.5,0l117.5,203.372H0Z" transform="translate(382 712.837) rotate(-14)"/>
+      <path id="Tracé_89" data-name="Tracé 89" class="cls-5" d="M74.424,0l74.424,128.811H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 1869.913, 1004.076)"/>
+    </g>
+  </g>
+</svg>
