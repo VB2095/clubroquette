@@ -16,7 +16,7 @@ a{
 @font-face {
     font-family: 'connection';
     src: url('fonts/connectionii-webfont.woff2') format('woff2'),
-    url('connectionii-webfont.woff') format('woff');
+    url('fonts/connectionii-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -24,7 +24,7 @@ a{
 
 
 @font-face {
-    font-family: AbsoluteNeonScriptRegular, Absolute Neon Script;
+    font-family: AbsoluteNeonScriptRegular, 'Absolute Neon Script';
     src: url('fonts/retrosignature-webfont.woff2') format('woff2'),
          url('fonts/retrosignature-webfont.woff') format('woff');
     font-weight: normal;
@@ -33,7 +33,7 @@ a{
 }
 
 @font-face {
-    font-family: AbsoluteNeonScriptRegular, Absolute Neon Script;
+    font-family: AbsoluteNeonScriptRegular, 'Absolute Neon Script';
     src: url('fonts/RetroSignature.otf') format('otf');
 }
 
