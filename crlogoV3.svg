@@ -1,295 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2500" height="2500" viewBox="0 0 2500 2500">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1800" height="2157" viewBox="0 0 1800 2157">
   <defs>
     <style>
       .cls-1 {
-        clip-path: url(#clip-crlogov3);
-      }
-
-      .cls-2 {
         fill: #2d2d2d;
         font-size: 1000px;
         font-family: AbsoluteNeonScriptRegular, Absolute Neon Script;
       }
 
-      .cls-3, .cls-6 {
+      .cls-2, .cls-5 {
         fill: #e40078;
       }
 
-      .cls-4 {
+      .cls-3 {
         fill: #26b0e3;
       }
 
-      .cls-5 {
+      .cls-4 {
         fill: #2fd6c8;
       }
 
-      .cls-6 {
+      .cls-5 {
         opacity: 0.84;
       }
 
-      .cls-7 {
-        fill: #393939;
-      }
-
-      .cls-8 {
-        fill: #b899cf;
-      }
-
-      .cls-12, .cls-9 {
-        fill: none;
-      }
-
-      .cls-10 {
-        fill: #ffcc71;
-      }
-
-      .cls-11 {
-        fill: #16d6c8;
-      }
-
-      .cls-12 {
-        stroke: rgba(229,0,126,0.86);
-        stroke-linecap: round;
-        stroke-linejoin: round;
-        stroke-width: 14px;
-      }
-
-      .cls-13 {
-        fill: #fff;
-      }
-
-      .cls-14 {
-        filter: url(#Tracé_21);
-      }
-
-      .cls-15 {
+      .cls-6 {
         filter: url(#Club_Roquette);
       }
     </style>
-    <filter id="Club_Roquette" x="336.5" y="173.5" width="1800" height="2157" filterUnits="userSpaceOnUse">
+    <filter id="Club_Roquette" x="0" y="0" width="1800" height="2157" filterUnits="userSpaceOnUse">
       <feOffset dx="8" dy="2" input="SourceAlpha"/>
       <feGaussianBlur stdDeviation="4.5" result="blur"/>
       <feFlood flood-color="#428e8e" flood-opacity="0.569"/>
       <feComposite operator="in" in2="blur"/>
       <feComposite in="SourceGraphic"/>
     </filter>
-    <filter id="Tracé_21" x="-196.077" y="1875.348" width="194.603" height="148.495" filterUnits="userSpaceOnUse">
-      <feOffset dy="3" input="SourceAlpha"/>
-      <feGaussianBlur stdDeviation="3" result="blur-2"/>
-      <feFlood flood-color="#e40078" flood-opacity="0.71"/>
-      <feComposite operator="in" in2="blur-2"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
-    <clipPath id="clip-crlogov3">
-      <rect width="2500" height="2500"/>
-    </clipPath>
   </defs>
-  <g id="crlogov3" class="cls-1">
-    <rect class="cls-13" width="2500" height="2500"/>
-    <g id="Groupe_157" data-name="Groupe 157">
-      <g id="Groupe_162" data-name="Groupe 162">
-        <g id="Groupe_155" data-name="Groupe 155">
-          <g class="cls-15" transform="matrix(1, 0, 0, 1, 0, 0)">
-            <text id="Club_Roquette-2" data-name="Club
-Roquette" class="cls-2" transform="translate(1215 1027)"><tspan x="-417" y="0">Club</tspan><tspan x="-841" y="840">Roquette</tspan></text>
-          </g>
-          <g id="Groupe_50" data-name="Groupe 50" transform="translate(673 2089.677)">
-            <g id="Groupe_46" data-name="Groupe 46" transform="matrix(1, 0.017, -0.017, 1, 2.763, 0)">
-              <path id="Tracé_87" data-name="Tracé 87" class="cls-3" d="M0,0,1064.951,2.426l50.407,66.247L1.165,54.649,0,0" transform="matrix(0.998, -0.07, 0.07, 0.998, 34.958, 89.789)"/>
-              <path id="Tracé_86" data-name="Tracé 86" class="cls-4" d="M0,0,1064.951,2.426l50.407,66.247L1.165,54.649,0,0" transform="matrix(0.998, -0.07, 0.07, 0.998, 0, 77.803)"/>
-            </g>
+  <g id="Groupe_157" data-name="Groupe 157" transform="translate(-336.5 -173.5)">
+    <g id="Groupe_162" data-name="Groupe 162">
+      <g id="Groupe_155" data-name="Groupe 155">
+        <g class="cls-6" transform="matrix(1, 0, 0, 1, 336.5, 173.5)">
+          <text id="Club_Roquette-2" data-name="Club
+Roquette" class="cls-1" transform="translate(878.5 853.5)"><tspan x="-417" y="0">Club</tspan><tspan x="-841" y="840">Roquette</tspan></text>
+        </g>
+        <g id="Groupe_50" data-name="Groupe 50" transform="translate(673 2089.677)">
+          <g id="Groupe_46" data-name="Groupe 46" transform="matrix(1, 0.017, -0.017, 1, 2.763, 0)">
+            <path id="Tracé_87" data-name="Tracé 87" class="cls-2" d="M0,0,1064.951,2.426l50.407,66.247L1.165,54.649,0,0" transform="matrix(0.998, -0.07, 0.07, 0.998, 34.958, 89.789)"/>
+            <path id="Tracé_86" data-name="Tracé 86" class="cls-3" d="M0,0,1064.951,2.426l50.407,66.247L1.165,54.649,0,0" transform="matrix(0.998, -0.07, 0.07, 0.998, 0, 77.803)"/>
           </g>
         </g>
-        <path id="Tracé_88" data-name="Tracé 88" class="cls-5" d="M117.5,0l117.5,203.372H0Z" transform="translate(382 712.837) rotate(-14)"/>
-        <path id="Tracé_89" data-name="Tracé 89" class="cls-6" d="M74.424,0l74.424,128.811H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 1869.913, 1004.076)"/>
       </g>
-    </g>
-    <g id="Groupe_154" data-name="Groupe 154" transform="translate(407.579 349.362) rotate(42)">
-      <g id="Groupe_150" data-name="Groupe 150" transform="translate(1180.555 1458.504) rotate(-90)">
-        <ellipse id="Ellipse_38" data-name="Ellipse 38" class="cls-7" cx="13.739" cy="13.739" rx="13.739" ry="13.739"/>
-      </g>
-      <g id="Groupe_153" data-name="Groupe 153" transform="translate(1480.02 1508.024) rotate(-90)">
-        <path id="Tracé_119" data-name="Tracé 119" class="cls-7" d="M27.111,10.575a13.739,13.739,0,1,0-10.2,16.536A13.739,13.739,0,0,0,27.111,10.575Z" transform="translate(0 0)"/>
-      </g>
-      <g id="Groupe_148" data-name="Groupe 148" transform="translate(1764.9 1387.213) rotate(-90)">
-        <ellipse id="Ellipse_33" data-name="Ellipse 33" class="cls-7" cx="13.739" cy="13.739" rx="13.739" ry="13.739"/>
-      </g>
-      <g id="Groupe_149" data-name="Groupe 149" transform="translate(1390.036 1350.701) rotate(-90)">
-        <ellipse id="Ellipse_37" data-name="Ellipse 37" class="cls-7" cx="13.739" cy="13.739" rx="13.739" ry="13.739" transform="translate(0 23.386) rotate(-58.329)"/>
-      </g>
-      <g id="Groupe_151" data-name="Groupe 151" transform="translate(1976.403 1225.159) rotate(-90)">
-        <ellipse id="Ellipse_39" data-name="Ellipse 39" class="cls-7" cx="13.739" cy="13.739" rx="13.739" ry="13.739" transform="translate(0 23.386) rotate(-58.329)"/>
-      </g>
-      <g id="Groupe_152" data-name="Groupe 152" transform="translate(1731.272 1230.201) rotate(-90)">
-        <path id="Tracé_112" data-name="Tracé 112" class="cls-7" d="M27.111,10.576a13.739,13.739,0,1,0-10.2,16.537A13.74,13.74,0,0,0,27.111,10.576Z" transform="translate(0 0)"/>
-      </g>
-    </g>
-    <g id="Groupe_147" data-name="Groupe 147" transform="translate(20.189 -9.991)">
-      <g id="Groupe_52" data-name="Groupe 52" transform="translate(2089.643 2889.589)">
-        <path id="Tracé_91" data-name="Tracé 91" class="cls-8" d="M1508.95,2036.95l-224.26-39.55,39.55-224.26,224.26,39.552Zm-196-59.341,176.2,31.076,31.076-176.2-176.2-31.076Z" transform="translate(-1284.692 -1773.138)"/>
-      </g>
-      <g id="Groupe_53" data-name="Groupe 53" transform="translate(1456.504 -77.31)">
-        <path id="Tracé_92" data-name="Tracé 92" class="cls-4" d="M1161.77,605.985,947.783,683.864,869.9,469.874,1083.89,392Zm-199.4,46.606L1130.5,591.4l-61.19-168.134-168.134,61.19Z" transform="translate(-869.904 -391.997)"/>
-      </g>
-      <g id="Groupe_54" data-name="Groupe 54" transform="translate(2148.362 453.792)">
-        <path id="Tracé_93" data-name="Tracé 93" class="cls-8" d="M2476.2,851.937,1890.67,1549.69,1192.92,964.166l585.526-697.754Z" transform="translate(-1192.915 -266.412)"/>
-      </g>
-      <g id="Groupe_57" data-name="Groupe 57" transform="translate(0 2038.665)">
-        <path id="Tracé_96" data-name="Tracé 96" class="cls-8" d="M1956.91,1274.4l-.006,178.923H2042.3v24.4H1932.505l.007-227.72H2042.3v24.4Z" transform="translate(1210.849 -1249.998)"/>
-        <path id="Tracé_97" data-name="Tracé 97" class="cls-8" d="M0,1453.32H131.808l.008-178.923L0,1274.4V1250H166.2l-.011,227.72H0Z" transform="translate(-48.267 -1249.996)"/>
-      </g>
-      <g id="Groupe_58" data-name="Groupe 58" transform="matrix(0.934, -0.358, 0.358, 0.934, -758.157, 1921.623)">
-        <path id="Tracé_98" data-name="Tracé 98" class="cls-9" d="M1096.23,812.981c0-12.188-17.616-21.177-35.384-17.852-44.069,8.244-70.217,31.253-92.066,50.479-27.35,24.065-45.971,38.814-82.621,38.814s-55.279-14.75-82.636-38.816C776.387,821.724,742.6,792,676.074,792s-100.307,29.724-127.451,53.6c-27.348,24.067-45.978,38.816-82.627,38.816s-55.285-14.75-82.641-38.816C356.2,821.721,322.42,792,255.891,792s-100.313,29.721-127.462,53.6c-21.729,19.121-37.954,32.36-62.084,37-12.1,2.325-20.565,9.5-20.565,17.814h0c0,12.187,17.614,21.175,35.382,17.852,44.077-8.243,70.232-31.254,92.089-50.478,27.355-24.067,45.985-38.817,82.64-38.817s55.286,14.751,82.641,38.817c27.151,23.884,60.935,53.6,127.464,53.6s100.307-29.724,127.45-53.6c27.35-24.067,45.979-38.817,82.629-38.817s55.278,14.751,82.633,38.817c27.144,23.881,60.929,53.6,127.458,53.6s100.3-29.721,127.443-53.6c21.722-19.116,37.944-32.354,62.062-36.992,12.1-2.326,20.565-9.5,20.565-17.813Z" transform="translate(-45.78 -792)"/>
-      </g>
-      <circle id="Ellipse_19" data-name="Ellipse 19" class="cls-10" cx="45.158" cy="45.158" r="45.158" transform="matrix(0.979, -0.203, 0.203, 0.979, 1937.294, 2108.792)"/>
-      <path id="Tracé_100" data-name="Tracé 100" class="cls-11" d="M883.3,2109.65H314C314,1952.69,441.691,1825,598.65,1825S883.3,1952.69,883.3,2109.65Z" transform="translate(196.743 1148.947)"/>
-      <circle id="Ellipse_20" data-name="Ellipse 20" class="cls-10" cx="366.049" cy="366.049" r="366.049" transform="translate(2322.574 2779.317) rotate(-45)"/>
-      <circle id="Ellipse_21" data-name="Ellipse 21" class="cls-7" cx="162.688" cy="162.688" r="162.688" transform="translate(2919.957 622.731) rotate(-87.168)"/>
-      <circle id="Ellipse_24" data-name="Ellipse 24" class="cls-11" cx="105.748" cy="105.748" r="105.748" transform="matrix(0.202, -0.979, 0.979, 0.202, 2934.891, 1851.407)"/>
-      <circle id="Ellipse_26" data-name="Ellipse 26" class="cls-7" cx="162.689" cy="162.689" r="162.689" transform="matrix(0.258, -0.966, 0.966, 0.258, 124.733, 2865.169)"/>
-      <circle id="Ellipse_27" data-name="Ellipse 27" class="cls-7" cx="65.075" cy="65.075" r="65.075" transform="matrix(0.109, -0.994, 0.994, 0.109, 2768.446, 2100.045)"/>
-      <circle id="Ellipse_30" data-name="Ellipse 30" class="cls-10" cx="170.823" cy="170.823" r="170.823" transform="translate(2241.599 1722.29) rotate(-77.919)"/>
-      <g id="Groupe_90" data-name="Groupe 90" transform="translate(-1262.712 1419.377) rotate(-53.989)">
-        <g id="Groupe_59" data-name="Groupe 59" transform="translate(859.86 894.143)">
-          <path id="Tracé_101" data-name="Tracé 101" class="cls-7" d="M369.432,669.1a25.5,25.5,0,1,0-18.938,30.7A25.5,25.5,0,0,0,369.432,669.1Z" transform="translate(-319.103 -649.472)"/>
-        </g>
-        <g id="Groupe_60" data-name="Groupe 60" transform="translate(885.346 1135.432)">
-          <path id="Tracé_102" data-name="Tracé 102" class="cls-7" d="M378.411,776.442a25.5,25.5,0,1,0-18.938,30.7A25.5,25.5,0,0,0,378.411,776.442Z" transform="translate(-328.082 -756.811)"/>
-        </g>
-        <g id="Groupe_61" data-name="Groupe 61" transform="translate(2211.611 756.691)">
-          <path id="Tracé_103" data-name="Tracé 103" class="cls-7" d="M845.658,607.957a25.5,25.5,0,1,0-18.938,30.7,25.5,25.5,0,0,0,18.938-30.7Z" transform="translate(-795.33 -588.326)"/>
-        </g>
-        <g id="Groupe_62" data-name="Groupe 62" transform="translate(1747.348 568.653)">
-          <path id="Tracé_104" data-name="Tracé 104" class="cls-7" d="M688.125,469.554a25.5,25.5,0,1,0,30.7,18.938,25.5,25.5,0,0,0-30.7-18.938Z" transform="translate(-668.492 -468.861)"/>
-        </g>
-        <g id="Groupe_63" data-name="Groupe 63" transform="translate(711.336 536.006)">
-          <circle id="Ellipse_31" data-name="Ellipse 31" class="cls-7" cx="25.505" cy="25.505" r="25.505" transform="matrix(0.525, -0.851, 0.851, 0.525, 0, 43.414)"/>
-        </g>
-        <g id="Groupe_64" data-name="Groupe 64" transform="translate(1298.683 344.524)">
-          <path id="Tracé_105" data-name="Tracé 105" class="cls-7" d="M493.333,405.666a25.5,25.5,0,1,0,30.7,18.938,25.5,25.5,0,0,0-30.7-18.938Z" transform="translate(-473.702 -404.972)"/>
-        </g>
-        <g id="Groupe_65" data-name="Groupe 65" transform="translate(1546.149 493.398)">
-          <path id="Tracé_106" data-name="Tracé 106" class="cls-7" d="M611.214,490.83a25.505,25.505,0,1,0-18.938,30.7,25.505,25.505,0,0,0,18.938-30.7Z" transform="translate(-560.885 -471.199)"/>
-        </g>
-        <g id="Groupe_66" data-name="Groupe 66" transform="translate(1976.219 883.678)">
-          <circle id="Ellipse_32" data-name="Ellipse 32" class="cls-7" cx="25.505" cy="25.505" r="25.505" transform="translate(0 0)"/>
-        </g>
-        <g id="Groupe_68" data-name="Groupe 68" transform="translate(2081.957 388.658)">
-          <path id="Tracé_108" data-name="Tracé 108" class="cls-7" d="M794.824,444.236a25.505,25.505,0,1,0-18.938,30.7A25.505,25.505,0,0,0,794.824,444.236Z" transform="translate(-744.495 -424.605)"/>
-        </g>
-        <g id="Groupe_69" data-name="Groupe 69" transform="translate(1340.976 737.107)">
-          <path id="Tracé_109" data-name="Tracé 109" class="cls-7" d="M516.5,593.919a25.506,25.506,0,1,0,30.7,18.941,25.506,25.506,0,0,0-30.7-18.941Z" transform="translate(-496.873 -593.226)"/>
-        </g>
-        <g id="Groupe_71" data-name="Groupe 71" transform="translate(2261.018 1158.047)">
-          <circle id="Ellipse_34" data-name="Ellipse 34" class="cls-7" cx="25.505" cy="25.505" r="25.505" transform="matrix(0.525, -0.851, 0.851, 0.525, 0, 43.414)"/>
-        </g>
-        <g id="Groupe_72" data-name="Groupe 72" transform="translate(1059.253 1029.882)">
-          <path id="Tracé_110" data-name="Tracé 110" class="cls-7" d="M408.981,716.12a25.506,25.506,0,1,0,30.7,18.94A25.506,25.506,0,0,0,408.981,716.12Z" transform="translate(-389.35 -715.428)"/>
-        </g>
-        <g id="Groupe_73" data-name="Groupe 73" transform="translate(1889.691 434.856)">
-          <path id="Tracé_111" data-name="Tracé 111" class="cls-7" d="M530.634,283.32a25.506,25.506,0,1,0-18.94,30.7A25.506,25.506,0,0,0,530.634,283.32Z" transform="translate(-480.304 -263.687)"/>
-        </g>
-        <g id="Groupe_74" data-name="Groupe 74" transform="translate(1679.558 248.98)">
-          <circle id="Ellipse_35" data-name="Ellipse 35" class="cls-7" cx="25.505" cy="25.505" r="25.505" transform="translate(0 0)"/>
-        </g>
-        <g id="Groupe_75" data-name="Groupe 75" transform="translate(912.594 103.242)">
-          <circle id="Ellipse_36" data-name="Ellipse 36" class="cls-7" cx="25.505" cy="25.505" r="25.505" transform="matrix(0.525, -0.851, 0.851, 0.525, 0, 43.414)"/>
-        </g>
-        <g id="Groupe_80" data-name="Groupe 80" transform="translate(1173.362 746.13)">
-          <path id="Tracé_113" data-name="Tracé 113" class="cls-7" d="M449.182,584.321a25.506,25.506,0,1,0,30.7,18.94A25.506,25.506,0,0,0,449.182,584.321Z" transform="translate(-429.551 -583.629)"/>
-        </g>
-        <g id="Groupe_81" data-name="Groupe 81" transform="translate(0 894.23)">
-          <circle id="Ellipse_40" data-name="Ellipse 40" class="cls-7" cx="25.505" cy="25.505" r="25.505" transform="matrix(0.839, -0.544, 0.544, 0.839, 0, 27.738)"/>
-        </g>
-        <g id="Groupe_82" data-name="Groupe 82" transform="translate(1805.169 789.285)">
-          <path id="Tracé_114" data-name="Tracé 114" class="cls-7" d="M626.42,570.89a25.5,25.5,0,1,0,30.7,18.938A25.5,25.5,0,0,0,626.42,570.89Z" transform="translate(-606.789 -570.197)"/>
-        </g>
-        <g id="Groupe_83" data-name="Groupe 83" transform="translate(1011.439 404.787)">
-          <path id="Tracé_115" data-name="Tracé 115" class="cls-7" d="M422.834,451.413a25.5,25.5,0,1,0-18.938,30.7,25.5,25.5,0,0,0,18.938-30.7Z" transform="translate(-372.505 -431.78)"/>
-        </g>
-        <g id="Groupe_84" data-name="Groupe 84" transform="translate(1299.004 594.575)">
-          <path id="Tracé_116" data-name="Tracé 116" class="cls-7" d="M524.144,535.839a25.505,25.505,0,1,0-18.938,30.7,25.505,25.505,0,0,0,18.938-30.7Z" transform="translate(-473.815 -516.208)"/>
-        </g>
-        <g id="Groupe_85" data-name="Groupe 85" transform="translate(966.904 569.171)">
-          <path id="Tracé_117" data-name="Tracé 117" class="cls-7" d="M376.446,505.6a25.5,25.5,0,1,0,30.7,18.938,25.5,25.5,0,0,0-30.7-18.938Z" transform="translate(-356.815 -504.907)"/>
-        </g>
-        <g id="Groupe_86" data-name="Groupe 86" transform="translate(1017.275 768.826)">
-          <path id="Tracé_118" data-name="Tracé 118" class="cls-7" d="M424.89,613.355a25.505,25.505,0,1,0-18.938,30.7A25.505,25.505,0,0,0,424.89,613.355Z" transform="translate(-374.561 -593.724)"/>
-        </g>
-        <g id="Groupe_87" data-name="Groupe 87" transform="translate(420.542 1025.228)">
-          <circle id="Ellipse_41" data-name="Ellipse 41" class="cls-7" cx="25.505" cy="25.505" r="25.505" transform="matrix(0.525, -0.851, 0.851, 0.525, 0, 43.414)"/>
-        </g>
-        <g id="Groupe_89" data-name="Groupe 89" transform="translate(1314.495 896.807)">
-          <circle id="Ellipse_42" data-name="Ellipse 42" class="cls-7" cx="25.505" cy="25.505" r="25.505" transform="matrix(0.525, -0.851, 0.851, 0.525, 0, 43.414)"/>
-        </g>
-      </g>
-      <g id="Groupe_109" data-name="Groupe 109" transform="translate(1984.049 -180.424)">
-        <g id="Groupe_91" data-name="Groupe 91" transform="translate(222.568 56.222)">
-          <circle id="Ellipse_43" data-name="Ellipse 43" class="cls-10" cx="32.532" cy="32.532" r="32.532" transform="translate(0 43.194) rotate(-41.596)"/>
-        </g>
-        <g id="Groupe_92" data-name="Groupe 92" transform="translate(274.302 372.023)">
-          <circle id="Ellipse_44" data-name="Ellipse 44" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="matrix(0.974, -0.226, 0.226, 0.974, 0, 14.693)"/>
-        </g>
-        <g id="Groupe_93" data-name="Groupe 93" transform="translate(538.334 1064.855)">
-          <circle id="Ellipse_45" data-name="Ellipse 45" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="translate(0 13.283) rotate(-11.771)"/>
-        </g>
-        <g id="Groupe_94" data-name="Groupe 94" transform="translate(450.921 210.115)">
-          <circle id="Ellipse_46" data-name="Ellipse 46" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="translate(0 62.864) rotate(-75.046)"/>
-        </g>
-        <g id="Groupe_95" data-name="Groupe 95" transform="translate(344.065 812.821)">
-          <circle id="Ellipse_47" data-name="Ellipse 47" class="cls-10" cx="32.532" cy="32.532" r="32.532" transform="matrix(0.789, -0.615, 0.615, 0.789, 0, 40.003)"/>
-        </g>
-        <g id="Groupe_96" data-name="Groupe 96" transform="translate(748.469 297.861)">
-          <circle id="Ellipse_48" data-name="Ellipse 48" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="translate(0 27.497) rotate(-25)"/>
-        </g>
-        <g id="Groupe_97" data-name="Groupe 97" transform="translate(749.945 526.914)">
-          <circle id="Ellipse_49" data-name="Ellipse 49" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="matrix(0.974, -0.226, 0.226, 0.974, 0, 14.693)"/>
-        </g>
-        <g id="Groupe_98" data-name="Groupe 98" transform="translate(247.92 612.458)">
-          <circle id="Ellipse_50" data-name="Ellipse 50" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="translate(0 43.194) rotate(-41.596)"/>
-        </g>
-        <g id="Groupe_99" data-name="Groupe 99" transform="translate(468.771 507.857)">
-          <circle id="Ellipse_51" data-name="Ellipse 51" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="matrix(0.134, -0.991, 0.991, 0.134, 0, 64.475)"/>
-        </g>
-        <g id="Groupe_100" data-name="Groupe 100" transform="translate(25.358 697.367)">
-          <circle id="Ellipse_52" data-name="Ellipse 52" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="matrix(0.974, -0.226, 0.226, 0.974, 0, 14.693)"/>
-        </g>
-        <g id="Groupe_101" data-name="Groupe 101" transform="translate(0 393.764)">
-          <circle id="Ellipse_53" data-name="Ellipse 53" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="translate(0 9.134) rotate(-8.07)"/>
-        </g>
-        <g id="Groupe_102" data-name="Groupe 102" transform="translate(962.545 947.999)">
-          <circle id="Ellipse_54" data-name="Ellipse 54" class="cls-10" cx="32.532" cy="32.532" r="32.532" transform="matrix(0.999, -0.051, 0.051, 0.999, 0, 3.296)"/>
-        </g>
-        <g id="Groupe_103" data-name="Groupe 103" transform="translate(566.806 785.196)">
-          <circle id="Ellipse_55" data-name="Ellipse 55" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="translate(0 9.134) rotate(-8.07)"/>
-        </g>
-        <g id="Groupe_104" data-name="Groupe 104" transform="translate(147.694 922.754)">
-          <circle id="Ellipse_56" data-name="Ellipse 56" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="translate(0 29.475) rotate(-26.937)"/>
-        </g>
-        <g id="Groupe_105" data-name="Groupe 105" transform="translate(641.008)">
-          <circle id="Ellipse_57" data-name="Ellipse 57" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="translate(0 13.283) rotate(-11.78)"/>
-        </g>
-        <g id="Groupe_106" data-name="Groupe 106" transform="translate(992.563 457.313)">
-          <circle id="Ellipse_58" data-name="Ellipse 58" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="matrix(0.337, -0.942, 0.942, 0.337, 0, 61.26)"/>
-        </g>
-        <g id="Groupe_107" data-name="Groupe 107" transform="translate(915.54 697.542)">
-          <circle id="Ellipse_59" data-name="Ellipse 59" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="translate(0 63.442) rotate(-77.182)"/>
-        </g>
-        <g id="Groupe_108" data-name="Groupe 108" transform="translate(950.237 113.508)">
-          <circle id="Ellipse_60" data-name="Ellipse 60" class="cls-10" cx="32.531" cy="32.531" r="32.531" transform="matrix(0.974, -0.226, 0.226, 0.974, 0, 14.693)"/>
-        </g>
-      </g>
-      <g id="Groupe_146" data-name="Groupe 146" transform="translate(1670.689 2230.41) rotate(-17)">
-        <path id="Tracé_147" data-name="Tracé 147" class="cls-5" d="M2195.28,1991.73c15.166-15.166,11.887-40.817-6.841-51.271-46.448-25.931-96.555-18.769-138.423-12.785-52.407,7.489-86.054,10.553-116.15-19.543s-27.039-63.75-19.553-116.165c7.43-52.01,16.677-116.742-37.954-171.376s-119.361-45.38-171.371-37.949c-52.408,7.49-86.062,10.548-116.158-19.546s-27.044-63.757-19.558-116.171c7.427-52.018,16.671-116.747-37.961-171.38s-119.363-45.389-171.379-37.964c-41.637,5.948-71.434,9.1-97.02-4.943a32.771,32.771,0,0,0-39.057,5.281h0c-15.166,15.165-11.887,40.816,6.838,51.271,46.455,25.937,96.57,18.78,138.441,12.8,52.415-7.485,86.068-10.544,116.17,19.558s27.045,63.757,19.558,116.17c-7.427,52.019-16.671,116.749,37.961,171.382s119.361,45.38,171.371,37.949c52.408-7.492,86.062-10.55,116.158,19.547s27.039,63.75,19.553,116.165c-7.43,52.01-16.677,116.742,37.956,171.376s119.351,45.377,171.364,37.945c41.626-5.95,71.421-9.1,97,4.932a32.774,32.774,0,0,0,39.057-5.283Z" transform="translate(-1098.283 -1036.475)"/>
-      </g>
-    </g>
-    <g id="Groupe_47" data-name="Groupe 47" transform="translate(-231.949 1698.883) rotate(-14)">
-      <g class="cls-14" transform="matrix(0.97, 0.24, -0.24, 0.97, 636.06, -1592.3)">
-        <path id="Tracé_21-2" data-name="Tracé 21" class="cls-12" d="M0,77.553,60.144,7.2,140.855,0" transform="translate(-175.66 1924.63) rotate(-14)"/>
-      </g>
-      <path id="Tracé_22" data-name="Tracé 22" class="cls-12" d="M0,77.552,60.144,7.2,140.855,0" transform="translate(140.855 155.105)"/>
-      <path id="Tracé_23" data-name="Tracé 23" class="cls-12" d="M0,77.556,60.149,7.2,140.86,0" transform="translate(281.709 77.549)"/>
-      <path id="Tracé_24" data-name="Tracé 24" class="cls-12" d="M0,77.549l14.78-17.29L60.139,7.2,140.85,0" transform="translate(422.57 0)"/>
+      <path id="Tracé_88" data-name="Tracé 88" class="cls-4" d="M117.5,0l117.5,203.372H0Z" transform="translate(382 712.837) rotate(-14)"/>
+      <path id="Tracé_89" data-name="Tracé 89" class="cls-5" d="M74.424,0l74.424,128.811H0Z" transform="matrix(0.946, 0.326, -0.326, 0.946, 1869.913, 1004.076)"/>
     </g>
   </g>
 </svg>
