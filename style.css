@@ -24,18 +24,9 @@ a{
 
 
 @font-face {
-    font-family: 'kgsummer';
-    src: url('fonts/kgsummersunshineshadow-webfont.woff2') format('woff2'),
-    url('fonts/kgsummersunshineshadow-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'kgsummer';
-    src: url('fonts/kgsummersunshineshadow-webfont.woff2') format('woff2'),
-    url('fonts/kgsummersunshineshadow-webfont.woff') format('woff');
+    font-family: 'retro_signatureregular';
+    src: url('retrosignature-webfont.woff2') format('woff2'),
+         url('retrosignature-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
