@@ -1,13 +1,14 @@
 body{
     display: flex;
     justify-content: center;
-    background-image: url('bg.png');
+    background-image: url('bgv2.svg');
     background-repeat: no-repeat;
+    background-size: 100%;
     cursor: url('Normal.cur'), auto;
 }
 
 a{
-    cursor: url('hand.cur'),auto;)
+    cursor: url('hand.cur'),auto;);
 }
 
 
