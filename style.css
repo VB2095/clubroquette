@@ -8,7 +8,7 @@ body{
 }
 
 a{
-    cursor: url('hand.cur'),auto;);
+    cursor: url('hand.cur'),auto;
 }
 
 
@@ -24,7 +24,7 @@ a{
 
 
 @font-face {
-    font-family="AbsoluteNeonScriptRegular, AbsoluteNeon Script";
+    font-family='AbsoluteNeonScriptRegular, Absolute Neon Script';
     src: url('fonts/retrosignature-webfont.woff2') format('woff2'),
          url('fonts/retrosignature-webfont.woff') format('woff');
     font-weight: normal;
@@ -33,8 +33,8 @@ a{
 }
 
 @font-face {
-    font-family="AbsoluteNeonScriptRegular, AbsoluteNeon Script";
-    src: url('fonts/RetroSignature.otf');
+    font-family='AbsoluteNeonScriptRegular, Absolute Neon Script';
+    src: url('fonts/RetroSignature.otf') format('otf');
 }
 
 @font-face {
