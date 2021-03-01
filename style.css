@@ -24,7 +24,7 @@ a{
 
 
 @font-face {
-    font-family: 'AbsoluteNeonScriptRegular';
+    font-family: 'AbsoluteNeonScriptRegular', 'Absolute Neon Script';
     src: url('retrosignature-webfont.woff2') format('woff2'),
          url('retrosignature-webfont.woff') format('woff');
     font-weight: normal;
@@ -33,7 +33,7 @@ a{
 }
 
 @font-face {
-    font-family: 'AbsoluteNeonScriptRegular';
+    font-family: 'AbsoluteNeonScriptRegular', 'Absolute Neon Script';
     src: url('fonts\RetroSignature.otf');
 }
 
