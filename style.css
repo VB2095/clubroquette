@@ -32,7 +32,10 @@ a{
 
 }
 
-@font-
+@font-face {
+    font-family: 'AbsoluteNeonScriptRegular';
+    src: url('fonts\RetroSignature.otf');
+}
 
 @font-face {
     font-family: 'robotoregular';
